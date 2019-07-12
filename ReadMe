@@ -1,0 +1,9 @@
+#Written on python 2.7
+#install python packages:
+	1 pandas
+	2 itertools
+	3 pandasql as psql
+
+Files refenrnce to :
+task 1 - triangle.py 
+task 2 - log_analyze.py , log_analyze_queueries.py , stas_logfile.log 
